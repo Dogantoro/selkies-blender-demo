@@ -5,6 +5,7 @@ Runs Blender on Selkies
 
 These demo files are almost exactly the example files on the Selkies Repo, with some slight changes to run Blender instead.
 
+![Image](https://github.com/user-attachments/assets/e64646b2-38b0-4465-8b68-7b889cad0edb)
 
 ## Running
 
