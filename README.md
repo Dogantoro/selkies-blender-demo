@@ -10,7 +10,7 @@ These demo files are almost exactly the example files on the Selkies Repo, with 
 
 These running instructions should work fine on both Windows and Linux; you do not need to create a virtual machine if on Windows! This will make networking more painful.
 
-Clone repo into a local directory, and if on windows ensure that it uses LF endings instead of CRLF. Then run the following commands in powershell, replacing <name> and <container> with the appropiate strings.
+Clone repo into a local directory, and if on windows ensure that it uses LF endings instead of CRLF. Then run the following commands in powershell, replacing \<name\> and \<container\> with the appropiate strings.
 
 ```bash
   docker build -t <name>/<container> .
